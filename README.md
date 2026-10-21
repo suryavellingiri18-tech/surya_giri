@@ -10,6 +10,28 @@
   <a href="mailto:suryavellingiri18@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1F4E8C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
+<h2 align="center">GitHub Activity</h2>
+
+<p align="center">
+  <img height="175" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=suryavellingiri18-tech&show_icons=true&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&bg_color=F5F9FC&border_color=BCD4EA"/>
+  <img height="175" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryavellingiri18-tech&layout=compact&langs_count=5&title_color=0A2A5E&text_color=1F4E8C&bg_color=F5F9FC&border_color=BCD4EA"/>
+</p>
+
+<h2 align="center">Featured Repositories</h2>
+
+<p align="center">
+  <a href="https://github.com/suryavellingiri18-tech/bitchord-new">
+    <img height="150" alt="BitChord" src="https://github-readme-stats.vercel.app/api/pin/?username=suryavellingiri18-tech&repo=bitchord-new&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&bg_color=F5F9FC&border_color=BCD4EA"/>
+  </a>
+  <a href="https://github.com/suryavellingiri18-tech/suryavellingiri18-tech">
+    <img height="150" alt="Profile README" src="https://github-readme-stats.vercel.app/api/pin/?username=suryavellingiri18-tech&repo=suryavellingiri18-tech&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&bg_color=F5F9FC&border_color=BCD4EA"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/suryavellingiri18-tech?tab=repositories">View all repositories</a>
+</p>
+
 <h2 align="center">Tools & Software</h2>
 
 <p align="center">
@@ -33,8 +55,7 @@
   <tr>
     <td width="30%" align="center"><img src="pixel_art.png" width="180" alt="Surya"/></td>
     <td align="center">
- Hi, I’m <strong>Surya</strong> — a Computer Science student passionate about both programming and visual storytelling. I work with Python and C, and I’m currently exploring HTML and UI/UX design.<br><br>
-I also create cinematic visuals, atmospheric motion graphics, and imaginative worlds through VFX. I enjoy bringing technical and creative ideas together to make things that are both functional and visually engaging.
+ Hi, I’m <strong>Surya</strong> — a Computer Science student passionate about both programming and visual storytelling. I work with Python and C, and I’m currently exploring HTML and UI/UX design while continuing to create cinematic visuals and digital art. I enjoy blending technical skills with creativity, building immersive experiences, and turning ideas into polished work.
     </td>
   </tr>
 </table>
