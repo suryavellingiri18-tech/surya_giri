@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="assets/banner.gif" width="100%"/>
+  <img src="linkedin-banner-surya-light.png" width="100%"/>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 <table align="center">
   <tr>
-    <td width="30%" align="center"><img src="assets/avatar.png" width="180"/></td>
+    <td width="30%" align="center"><img src="blue_profile.jpeg" width="180"/></td>
     <td align="center">Hi, I’m  <b>Surya</b>, an aspiring VFX artist and designer who loves crafting worlds that feel a little out of this world. Usually found gaming somewhere in the shadows… if you can find me.</td>
   </tr>
 </table>
