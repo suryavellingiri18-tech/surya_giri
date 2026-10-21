@@ -30,18 +30,21 @@
 
 <table align="center">
   <tr>
-    <td width="30%" align="center"><img src="blue_profile.jpeg" width="180" alt="Surya"/></td>
+    <td width="30%" align="center"><img src="pixel_art.png" width="180" alt="Surya"/></td>
     <td align="center">
-      Hi, I’m <b>Surya</b>, a Computer Science student with a passion for multimedia, VFX, and visual storytelling.<br><br>
-      I create cinematic visuals, atmospheric motion graphics, and imaginative worlds that blend design with emotion.
+ Hi, I’m <strong>Surya</strong> — a Computer Science student passionate about both programming and visual storytelling. I work with Python and C, and I’m currently exploring HTML and UI/UX design.<br><br>
+I also create cinematic visuals, atmospheric motion graphics, and imaginative worlds through VFX. I enjoy bringing technical and creative ideas together to make things that are both functional and visually engaging.
     </td>
   </tr>
 </table>
 
-<h2 align="center">Quote</h2>
+<h2 align="center">V E N I &nbsp;·&nbsp; V I D I &nbsp;·&nbsp; V I C I</h2>
 
 <p align="center">
-  <i>“Veni, vidi, vici.”</i>
+  <strong>I CAME.</strong><br>
+  <strong>I SAW.</strong><br>
+  <strong>I CONQUERED.</strong><br><br>
+  <sub><i>“Veni, vidi, vici.”</i></sub>
 </p>
 
 <h2 align="center">Goals</h2>
