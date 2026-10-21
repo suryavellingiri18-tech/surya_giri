@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="blue_banner.gif" width="100%" alt="Surya - Computer Science Student, Aspiring Multimedia & VFX Artist"/>
+  <img src="black_ribbonbanner.gif" width="100%" alt="Surya - Computer Science Student, Aspiring Multimedia & VFX Artist"/>
 </p>
 
 <p align="center">
