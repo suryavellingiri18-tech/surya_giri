@@ -22,9 +22,9 @@
 
 <h2 align="center">Showreel</h2>
 
-<p align="center">
+<!--<p align="center">
   <a href="YOUR_SHOWREEL_LINK"><img src="" width="80%" alt="Showreel Preview"/></a>
-</p>
+</p>-->
 
 <h2 align="center">About Me</h2>
 
