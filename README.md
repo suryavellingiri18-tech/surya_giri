@@ -53,13 +53,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=suryavellingiri18-tech&show_icons=true&theme=dark&bg_color=0D1117&title_color=E6EDF3&text_color=E6EDF3&icon_color=58A6FF&border_color=30363D"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=suryavellingiri18-tech&show_icons=true&theme=default&bg_color=FFFFFF&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&border_color=BCD4EA"/>
-    <img height="175" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=suryavellingiri18-tech&show_icons=true&theme=default&bg_color=FFFFFF&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&border_color=BCD4EA"/>
+    <img height="175" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=suryavellingiri18-tech&show_icons=true&theme=default&bg_color=FFFFFF&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&border_color=BCD4EA"/>
   </picture>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=suryavellingiri18-tech&layout=compact&langs_count=5&theme=dark&bg_color=0D1117&title_color=E6EDF3&text_color=E6EDF3&icon_color=58A6FF&border_color=30363D"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=suryavellingiri18-tech&layout=compact&langs_count=5&theme=default&bg_color=FFFFFF&title_color=0A2A5E&text_color=1F4E8C&border_color=BCD4EA"/>
-    <img height="175" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryavellingiri18-tech&layout=compact&langs_count=5&theme=default&bg_color=FFFFFF&title_color=0A2A5E&text_color=1F4E8C&border_color=BCD4EA"/>
+    <img height="175" alt="Languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryavellingiri18-tech&layout=compact&langs_count=5&theme=default&bg_color=FFFFFF&title_color=0A2A5E&text_color=1F4E8C&border_color=BCD4EA"/>
   </picture>
 </p>
 
@@ -67,8 +67,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=suryavellingiri18-tech&theme=github-dark&hide_border=true&bg_color=0D1117&color=E6EDF3&line=58A6FF&point=DBB9FF"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=suryavellingiri18-tech&theme=github-light&hide_border=true&bg_color=F5F9FC&color=1F4E8C&line=4A7FB5&point=0A2A5E"/>
-    <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=suryavellingiri18-tech&theme=github-light&hide_border=true&bg_color=F5F9FC&color=1F4E8C&line=4A7FB5&point=0A2A5E"/>
+    <img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=suryavellingiri18-tech&theme=github-light&hide_border=true&bg_color=F5F9FC&color=1F4E8C&line=4A7FB5&point=0A2A5E"/>
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Tamil%20%7C%20English-1F4E8C?style=for-the-badge&logo=globe&logoColor=white" alt="Languages: Tamil and English"/>
 </p>
 
 <h2 align="center">Featured Repositories</h2>
