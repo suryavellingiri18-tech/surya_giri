@@ -72,7 +72,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Tamil%20%7C%20English-1F4E8C?style=for-the-badge&logo=globe&logoColor=white" alt="Languages: Tamil and English"/>
-</p>tps://img.shields.io/badge/Language-Tamil%20%7C%20English-1F4E8C?style=for-the-badge&logo=globe&logoColor=white" alt="Languages: Tamil and English"/>
 </p>
 
 <h2 align="center">Featured Repositories</h2>
