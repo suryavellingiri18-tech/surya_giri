@@ -23,7 +23,7 @@
 <h2 align="center">Showreel</h2>
 
 <p align="center">
-  <a href="YOUR_SHOWREEL_LINK"><img src="" width="80%" alt="Showreel Preview"/></a>
+  <a href="YOUR_SHOWREEL_LINK"><img src="blue_banner.gif" width="80%" alt="Showreel Preview"/></a>
 </p>
 
 <h2 align="center">About Me</h2>
@@ -33,21 +33,26 @@
     <td width="30%" align="center"><img src="blue_profile.jpeg" width="180" alt="Surya"/></td>
     <td align="center">
       Hi, I’m <b>Surya</b>, a Computer Science student with a passion for multimedia, VFX, and visual storytelling.<br><br>
-      I enjoy creating cinematic visuals, polished motion graphics, and imaginative worlds that feel immersive and atmospheric.r>
-      I’m especially drawn to the intersection of art, design, and technology — where creativity meets execution.
+      I create cinematic visuals, atmospheric motion graphics, and imaginative worlds that blend design with emotion.
     </td>
   </tr>
 </table>
 
+<h2 align="center">Quote</h2>
+
+<p align="center">
+  <i>“Veni, vidi, vici.”</i>
+</p>
+
 <h2 align="center">Goals</h2>
 
 <p align="center">
-  <i>“Create immersive visual experiences, deepen my craft in VFX and design, and grow into a multidisciplinary artist who blends storytelling, motion, and technology.”</i>
+  <i>To build immersive visual experiences, sharpen my craft in VFX and design, and grow into a multidisciplinary artist who blends storytelling, motion, and technology.</i>
 </p>
 
 <p align="center">
-  • Learn and refine cinematic VFX workflows<br>
-  • Build a strong motion design and visual storytelling portfolio<br>
-  • Explore creative tools and pipelines across 3D, compositing, and concept art<br>
-  • Turn creative passion into impactful professional work
+  • Master cinematic VFX and compositing workflows<br>
+  • Strengthen storytelling through motion design and visual direction<br>
+  • Build a polished portfolio of artistic and technical work<br>
+  • Turn creative passion into impactful, professional projects
 </p>
