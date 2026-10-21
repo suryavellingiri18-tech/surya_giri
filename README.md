@@ -20,9 +20,9 @@
   <img src="https://img.shields.io/badge/DAVINCI_RESOLVE-0A2A5E?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
 </p>
 
-<h2 align="center">Showreel</h2>
+<!--<h2 align="center">Showreel</h2>
 
-<!--<p align="center">
+<p align="center">
   <a href="YOUR_SHOWREEL_LINK"><img src="" width="80%" alt="Showreel Preview"/></a>
 </p>-->
 
