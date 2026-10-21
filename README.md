@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.artstation.com/saden_18"><img src="https://img.shields.io/badge/ARTSTATION-13AFF0?style=for-the-badge&logo=artstation&logoColor=white"/></a>
-  <a href="https://www.behance.net/YOUR_BEHANCE_USERNAME"><img src="https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/surya-giri-55a5b43ba"><img src="https://img.shields.io/badge/LINKEDIN-0A2A5E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:suryavellingiri18@gmail.com"><img src="https://img.shields.io/badge/GMAIL-4A7FB5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <p align="center">
+  <a href="https://www.artstation.com/saden_18"><img src="https://img.shields.io/badge/ARTSTATION-1F4E8C?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation"/></a>
+  <a href="https://www.behance.net/YOUR_BEHANCE_USERNAME"><img src="https://img.shields.io/badge/BEHANCE-1F4E8C?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
+  <a href="https://www.linkedin.com/in/surya-giri-55a5b43ba"><img src="https://img.shields.io/badge/LINKEDIN-1F4E8C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:suryavellingiri18@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1F4E8C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <h2 align="center">Tools & Software</h2>
