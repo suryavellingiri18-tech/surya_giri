@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="Animating_motion_graphic_banner_…_20261021131738.gif" width="100%"/>
+  <img src="" width="100%"/>
 </p>
 
 <p align="center">
