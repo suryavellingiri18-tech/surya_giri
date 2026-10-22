@@ -33,7 +33,7 @@
   <tr>
     <td width="30%" align="center"><img src="pixel_art.png" width="180" alt="Surya"/></td>
     <td align="center">
- Hi, I’m <strong>Surya</strong> — a Computer Science student passionate about both programming and visual storytelling. I work with Python and C, and I’m currently exploring HTML and UI/UX design while continuing to create cinematic visuals and digital art. I enjoy blending technical skills with creativity, building immersive experiences, and turning ideas into polished work.
+ Hi, I’m <strong>Surya</strong> — a Computer Science student passionate about both programming and visual storytelling. I work with Python and C, and I’m currently exploring HTML and UI/UX design to bridge creative art with code.
     </td>
   </tr>
 </table>
@@ -50,23 +50,30 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=suryavellingiri18-tech&show_icons=true&theme=github_dark&bg_color=101828&title_color=E2E8F0&text_color=C7D2FE&icon_color=60A5FA&border_color=1E3A5F"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=suryavellingiri18-tech&show_icons=true&theme=default&bg_color=F5F9FC&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&border_color=BCD4EA"/>
-    <img height="175" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=suryavellingiri18-tech&show_icons=true&theme=default&bg_color=F5F9FC&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&border_color=BCD4EA"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=suryavellingiri18-tech&show_icons=true&theme=github_dark&bg_color=101828&title_color=E2E8F0&text_color=E2E8F0&icon_color=4A7FB5&border_color=101828"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=suryavellingiri18-tech&show_icons=true&theme=default&bg_color=F5F9FC&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&border_color=F5F9FC"/>
+    <img height="175" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=suryavellingiri18-tech&show_icons=true&theme=default&bg_color=F5F9FC&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&border_color=F5F9FC"/>
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=suryavellingiri18-tech&layout=compact&langs_count=5&theme=github_dark&bg_color=101828&title_color=E2E8F0&text_color=C7D2FE&icon_color=60A5FA&border_color=1E3A5F"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=suryavellingiri18-tech&layout=compact&langs_count=5&theme=default&bg_color=F5F9FC&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&border_color=BCD4EA"/>
-    <img height="175" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryavellingiri18-tech&layout=compact&langs_count=5&theme=default&bg_color=F5F9FC&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&border_color=BCD4EA"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=suryavellingiri18-tech&layout=compact&langs_count=5&theme=github_dark&bg_color=101828&title_color=E2E8F0&text_color=E2E8F0&icon_color=4A7FB5&border_color=101828"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=suryavellingiri18-tech&layout=compact&langs_count=5&theme=default&bg_color=F5F9FC&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&border_color=F5F9FC"/>
+    <img height="175" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryavellingiri18-tech&layout=compact&langs_count=5&theme=default&bg_color=F5F9FC&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&border_color=F5F9FC"/>
   </picture>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C-Programming-1F4E8C?style=for-the-badge&logo=c&logoColor=white" alt="C Programming"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+</p>
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=suryavellingiri18-tech&theme=github-dark&hide_border=true&bg_color=101828&color=E2E8F0&line=60A5FA&point=93C5FD"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=suryavellingiri18-tech&theme=github-light&hide_border=true&bg_color=F5F9FC&color=0A2A5E&line=4A7FB5&point=1F4E8C"/>
-    <img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=suryavellingiri18-tech&theme=github-light&hide_border=true&bg_color=F5F9FC&color=0A2A5E&line=4A7FB5&point=1F4E8C"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=suryavellingiri18-tech&theme=github-dark&hide_border=true&bg_color=101828&color=4A7FB5&line=4A7FB5"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=suryavellingiri18-tech&theme=github-light&hide_border=true&bg_color=F5F9FC&color=0A2A5E&line=0A2A5E"/>
+    <img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=suryavellingiri18-tech&theme=github-light&hide_border=true&bg_color=F5F9FC&color=0A2A5E&line=0A2A5E"/>
   </picture>
 </p>
 
@@ -78,15 +85,15 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=suryavellingiri18-tech&repo=bitchord-new&title_color=E6EDF3&text_color=E6EDF3&icon_color=58A6FF&bg_color=0D1117&border_color=30363D"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=suryavellingiri18-tech&repo=bitchord-new&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&bg_color=F5F9FC&border_color=BCD4EA"/>
-    <img height="150" alt="BitChord" src="https://github-readme-stats.vercel.app/api/pin/?username=suryavellingiri18-tech&repo=bitchord-new&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&bg_color=F5F9FC&border_color=BCD4EA"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=suryavellingiri18-tech&repo=bitchord-new&title_color=E6EDF3&text_color=E6EDF3&icon_color=4A7FB5&bg_color=101828"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=suryavellingiri18-tech&repo=bitchord-new&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&bg_color=F5F9FC"/>
+    <img height="150" alt="BitChord" src="https://github-readme-stats.vercel.app/api/pin/?username=suryavellingiri18-tech&repo=bitchord-new&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&bg_color=F5F9FC"/>
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=suryavellingiri18-tech&repo=suryavellingiri18-tech&title_color=E6EDF3&text_color=E6EDF3&icon_color=58A6FF&bg_color=0D1117&border_color=30363D"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=suryavellingiri18-tech&repo=suryavellingiri18-tech&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&bg_color=F5F9FC&border_color=BCD4EA"/>
-    <img height="150" alt="Profile README" src="https://github-readme-stats.vercel.app/api/pin/?username=suryavellingiri18-tech&repo=suryavellingiri18-tech&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&bg_color=F5F9FC&border_color=BCD4EA"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=suryavellingiri18-tech&repo=suryavellingiri18-tech&title_color=E6EDF3&text_color=E6EDF3&icon_color=4A7FB5&bg_color=101828"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=suryavellingiri18-tech&repo=suryavellingiri18-tech&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&bg_color=F5F9FC"/>
+    <img height="150" alt="Profile README" src="https://github-readme-stats.vercel.app/api/pin/?username=suryavellingiri18-tech&repo=suryavellingiri18-tech&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&bg_color=F5F9FC"/>
   </picture>
 </p>
 
